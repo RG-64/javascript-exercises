@@ -9,6 +9,19 @@
 
 // Add your code right below, good luck!
 
+const firstName="Carlos";
+const lastName="Stevenson";
+const thisYear=1965;
+const birthYear=1947;
+let age=thisYear-birthYear;
+let fullName=firstName + " "+ lastName;
+
+let greeting="Hello! My name is " +fullName+ " and I am "+age+" years old.";
+
+console.log(greeting);
+
+
+
 
 
 
